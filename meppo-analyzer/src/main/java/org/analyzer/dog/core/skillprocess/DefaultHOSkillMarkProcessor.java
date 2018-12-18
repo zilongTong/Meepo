@@ -15,7 +15,7 @@ import org.analyzer.dog.core.skillprocess.sub.SkillMarkHandler;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-16
  */
 public class DefaultHOSkillMarkProcessor implements IHOSkillMarkPicker {

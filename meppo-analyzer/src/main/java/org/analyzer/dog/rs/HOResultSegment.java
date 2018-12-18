@@ -10,7 +10,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-15
  * 分词结果
  * name：当前分词属于技能型还是标签型；标签型的name就是tagWord；技能型的，name就是词典载入的时候指定的

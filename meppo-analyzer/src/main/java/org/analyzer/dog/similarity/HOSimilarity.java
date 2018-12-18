@@ -9,7 +9,7 @@ import org.apache.commons.collections.CollectionUtils;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-17
  */
 public class HOSimilarity implements IHOSimilarity {

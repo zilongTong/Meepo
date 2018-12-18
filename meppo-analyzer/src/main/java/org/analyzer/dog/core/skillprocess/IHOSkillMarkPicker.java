@@ -9,7 +9,7 @@ import org.analyzer.dog.rs.HOSkillMark;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-16
  */
 public interface IHOSkillMarkPicker {

@@ -8,7 +8,7 @@ import org.analyzer.dog.rs.HOResultSegment;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-17
  */
 public interface IHOSimilarity {

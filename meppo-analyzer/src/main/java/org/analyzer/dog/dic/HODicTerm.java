@@ -4,7 +4,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-15
  * <pre>
  * 词典类，画像的分词单元

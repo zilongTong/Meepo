@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-15
  * 词典树节点
  */

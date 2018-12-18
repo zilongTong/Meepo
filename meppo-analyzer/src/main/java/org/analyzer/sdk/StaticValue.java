@@ -5,8 +5,7 @@ import java.util.Comparator;
 import java.util.regex.Pattern;
 
 /** 
- * @author 吴健  (HQ01U8435)	Email : wujian@metersbonwe.com 
- * @version 创建时间：2012-5-23 下午1:32:27 
+ * @author
  */
 public interface StaticValue {
 	

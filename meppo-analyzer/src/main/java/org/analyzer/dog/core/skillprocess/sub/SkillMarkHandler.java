@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-17
  * 标志分词的对应文本处理
  */

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-17
  * 关键字的分词结果
  */

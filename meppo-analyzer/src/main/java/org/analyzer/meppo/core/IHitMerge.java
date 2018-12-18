@@ -6,7 +6,7 @@ import org.analyzer.meppo.dic.ResultHit;
 
 
 /**
- * @author Smile.Wu
+ * @author Leo
  * @date 2016年2月1日  下午6:04:08
  */
 public interface IHitMerge {

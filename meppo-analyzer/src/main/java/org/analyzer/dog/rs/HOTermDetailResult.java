@@ -13,7 +13,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-16
  * 初步分词结果，记录关键字和次数；记录关键字位置信息
  */

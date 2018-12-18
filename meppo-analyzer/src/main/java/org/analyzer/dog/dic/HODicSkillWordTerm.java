@@ -1,7 +1,7 @@
 package org.analyzer.dog.dic;
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-9-15
  */
 public class HODicSkillWordTerm extends HODicTerm {

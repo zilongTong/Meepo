@@ -2,7 +2,7 @@ package org.analyzer.meppo.dic;
 
 
 /**
- * @author Smile.Wu
+ * @author Leo
  * @date 2016年2月1日  上午11:50:24
  */
 public class ResultHit {

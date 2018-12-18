@@ -3,7 +3,7 @@ package org.analyzer.sdk;
 
 
 /**
- * @author Smile.Wu
+ * @author Leo
  * @date 2016年4月2日  下午1:19:46
  */
 public class StringFormat {

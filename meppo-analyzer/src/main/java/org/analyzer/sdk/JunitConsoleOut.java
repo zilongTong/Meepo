@@ -5,7 +5,7 @@ import org.slf4j.helpers.MessageFormatter;
 
 /**
  *
- * @author Smile.Wu
+ * @author Leo
  * @version 2015-10-30
  */
 public class JunitConsoleOut {
